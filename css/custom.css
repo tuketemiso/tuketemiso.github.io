@@ -15,7 +15,7 @@ span.red {
 }
 
 header {
-  background-image: url("bg.jpg");
+  background-image: url("./img/bg.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -76,6 +76,14 @@ section h2 {
   padding: 10px 0 20px 0;
   text-align: center;
   letter-spacing:  0.15em;
+}
+
+#apps img {
+  width: 100%;
+  margin-bottom: 15px;
+}
+#apps figcaption {
+  text-align: center;
 }
 
 footer {
